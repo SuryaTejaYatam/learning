@@ -1,0 +1,4 @@
+accounts:
+  name: Accounts Service Prod Yml Config
+  version: 2.0.0 
+  description: This is the Prod configuration for the Accounts Service application. It includes settings for the server, datasource, H2 console, JPA, and SQL initialization. The application is configured to run on port 9090 and uses an in-memory H2 database for development and testing purposes.

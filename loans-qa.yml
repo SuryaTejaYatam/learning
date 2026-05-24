@@ -1,0 +1,4 @@
+loans:
+  name: Loans Service QA Yml Config
+  version: 3.0.0 
+  description: This is the QA configuration for the Loans Service application. It includes settings for the server, datasource, H2 console, JPA, and SQL initialization. The application is configured to run on port 9091 and uses an in-memory H2 database for development and testing purposes.
