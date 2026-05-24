@@ -1,4 +1,4 @@
 loans:
   name: Loans Service Default Yml Config
-  version: 1.0.0 
+  version: 6708a4c803e5f2747233c2bdf22838dec6dff086bc7641eb1ca9bee60e53163c 
   description: This is the default configuration for the Loans Service application. It includes settings for the server, datasource, H2 console, JPA, and SQL initialization. The application is configured to run on port 9091 and uses an in-memory H2 database for development and testing purposes.
