@@ -1,4 +1,4 @@
 accounts:
   name: Accounts Service Default Yml Config
-  version: 1.0.0 
+  version: {cipher}414edc362c6568dfbb302c7461b7e93ad81a3ec61ceb3c0ab4ed5e79cc65a20a
   description: This is the default configuration for the Accounts Service application. It includes settings for the server, datasource, H2 console, JPA, and SQL initialization. The application is configured to run on port 9090 and uses an in-memory H2 database for development and testing purposes.
