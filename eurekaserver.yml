@@ -3,7 +3,7 @@ server:
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: ${SPRING_EUREKA_SERVICE_URL:localhost}
 
   client:
     register-with-eureka: false
